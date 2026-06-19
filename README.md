@@ -1,8 +1,6 @@
-# Hi, I'm Yaisah Granillo
+# Hi, I'm Yaisah (Yey - Sa)
 
 I'm a product manager based in San Antonio, TX, focused on AI agents, workflow automation, emerging tech, and practical product systems.
-
-My favorite work sits at the intersection of product strategy, technical execution, and messy real-world workflows: turning ambiguous problems into shippable systems that people can actually use.
 
 ## What I'm Building Toward
 
