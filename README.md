@@ -2,6 +2,14 @@
 
 I'm a product manager based in San Antonio, TX, focused on AI agents, workflow automation, emerging tech, and practical product systems.
 
+<p align="left">
+  <img alt="AI Product" src="https://img.shields.io/badge/AI%20Product-0E7C7B?style=for-the-badge&logo=openai&logoColor=white" />
+  <img alt="Agent Workflows" src="https://img.shields.io/badge/Agent%20Workflows-5A2B93?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img alt="OpenClaw" src="https://img.shields.io/badge/OpenClaw-FF6B35?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img alt="LLM Evals" src="https://img.shields.io/badge/LLM%20Evals-1F4E79?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img alt="Crypto/Web3" src="https://img.shields.io/badge/Crypto%20%2F%20Web3-111827?style=for-the-badge&logo=ethereum&logoColor=white" />
+</p>
+
 ## What I'm Building Toward
 
 - AI product leadership across agents, LLM-powered workflows, and productivity tools
